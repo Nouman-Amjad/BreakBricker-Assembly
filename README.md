@@ -9,15 +9,15 @@ Break Bricker is a classic brick-breaking game built in Assembly Language. Here'
 ### Screenshots
 1. **Game Start**
    - The game begins with a paddle and a ball ready to break bricks.
-   ![Game Start](assets/screenshot_1.png)
+   ![Game Start](Assets/screenshot_1.png)
 
 2. **Gameplay in Progress**
    - The player uses the paddle to keep the ball in play while breaking bricks.
-   ![Gameplay](assets/screenshot_2.png)
+   ![Gameplay](Assets/screenshot_2.png)
 
 3. **Level Completion**
    - Successfully breaking all bricks advances to the next level.
-   ![Level Completion](assets/screenshot_3.png)
+   ![Level Completion](Assets/screenshot_3.png)
 
 
 ## Features
